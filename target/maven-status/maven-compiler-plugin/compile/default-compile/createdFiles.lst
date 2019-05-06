@@ -1,0 +1,6 @@
+com\keyholesoftware\lambda\Application.class
+com\keyholesoftware\lambda\config\Config.class
+com\keyholesoftware\lambda\config\Config$1.class
+com\keyholesoftware\lambda\model\Language.class
+com\keyholesoftware\lambda\rest\LanguageResource.class
+com\keyholesoftware\lambda\LambdaHandler.class
